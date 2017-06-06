@@ -16,6 +16,7 @@
             CGSize s = [UIScreen mainScreen].bounds.size;
             self.frame = CGRectMake(0, 0, s.height, s.width);
         } else {
+            
             self.frame = [UIScreen mainScreen].bounds;
         }
     }
