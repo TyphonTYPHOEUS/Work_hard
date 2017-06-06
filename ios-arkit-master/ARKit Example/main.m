@@ -2,7 +2,8 @@
 //  main.m
 //  ARKit Example
 //
-//  Created by Carlos on 21/10/13.
+//  Created by 吴开 on 16/6/4.
+//  Copyright © 2016年 诸葛小亮. All rights reserved.
 //
 //
 
